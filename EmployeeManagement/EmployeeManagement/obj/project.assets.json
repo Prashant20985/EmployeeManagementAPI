@@ -2080,11 +2080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abheer\\OneDrive\\Desktop\\New folder\\WebAPI\\EmployeeMangagementWebAPI\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectUniqueName": "C:\\Users\\abheer\\OneDrive\\Desktop\\New folder\\EmployeeManagementAPI\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
       "projectName": "EmployeeManagement",
-      "projectPath": "C:\\Users\\abheer\\OneDrive\\Desktop\\New folder\\WebAPI\\EmployeeMangagementWebAPI\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectPath": "C:\\Users\\abheer\\OneDrive\\Desktop\\New folder\\EmployeeManagementAPI\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
       "packagesPath": "C:\\Users\\abheer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abheer\\OneDrive\\Desktop\\New folder\\WebAPI\\EmployeeMangagementWebAPI\\EmployeeManagement\\EmployeeManagement\\obj\\",
+      "outputPath": "C:\\Users\\abheer\\OneDrive\\Desktop\\New folder\\EmployeeManagementAPI\\EmployeeManagement\\EmployeeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abheer\\AppData\\Roaming\\NuGet\\NuGet.Config",
